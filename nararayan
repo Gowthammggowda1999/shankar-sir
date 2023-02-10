@@ -8,3 +8,10 @@ class abc
     System.out.println(c);
  }
 }
+class def
+{
+  public static void main(string[] args)
+  {
+     class.add();
+   }
+ }
